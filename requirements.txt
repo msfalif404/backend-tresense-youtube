@@ -1,0 +1,9 @@
+fastapi
+requests
+pydantic
+python-dotenv
+pandas
+httpx
+python-jose
+supabase
+google-generativeai

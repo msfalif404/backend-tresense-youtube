@@ -1,0 +1,32 @@
+# Folder Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# File konfigurasi editor dan IDE
+*.log
+.env
+*.env
+*.env.*
+
+# Folder virtualenv
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Git & Metadata
+.git/
+.gitignore
+.DS_Store
+
+# Jupyter Notebook
+*.ipynb
+
+# File cache atau sementara
+*.swp
+*.bak
+*.tmp

@@ -1,0 +1,94 @@
+[
+    {
+        "video_id": "40UWLZVM1bU",
+        "title": "Tugas Besar Pendidikan Kewarganegaraan - Pentingnya Fasilitas Kesehatan yang Merata",
+        "thumbnail": "https://i.ytimg.com/vi/40UWLZVM1bU/sddefault.jpg",
+        "description": "Video ini dibuat untuk memenuhi tugas besar Mata Kuliah Pendidikan Kewarganegaraan.\n\nTopik: Perekonomian Nasional & Kesejahteraan Sosial\nJudul: Menuju Indonesia Sehat: Pentingnya Fasilitas Kesehatan yang Merata\n\nInformasi Diri:\n- NIM: 1305213048\n- Nama: Muhammad Sya'bani Falif",
+        "published_at": "2024-06-10T00:04:04Z",
+        "channel_title": "Muhammad Sya'bani Falif",
+        "statistics": {
+            "view_count": "8",
+            "like_count": "0",
+            "dislike_count": "0",
+            "comment_count": "2"
+        },
+        "comments": [
+            {
+                "author": "@FalifFantastic",
+                "message": "wowww, keren banget kak",
+                "like_count": 0,
+                "published_at": "2025-05-01T13:44:44Z",
+                "updated_at": "2025-05-01T13:44:44Z",
+                "replies": [
+                    {
+                        "author": "@muhammadsyabanifalif2676",
+                        "message": "Senang banget kamu suka! Makasih yaaa \ud83e\udd70",
+                        "like_count": 0,
+                        "published_at": "2025-05-01T13:51:04Z",
+                        "updated_at": "2025-05-01T13:51:04Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "video_id": "1Y3UXccVTV4",
+        "title": "Assignment Pekan 11 - Multi Model Data Query Languages using ArangoDB",
+        "thumbnail": "https://i.ytimg.com/vi/1Y3UXccVTV4/sddefault.jpg",
+        "description": "NIM: 1305213048\nNama: Muhammad Sya'bani Falif\n\nThis video shows the learning process using ArangoDB",
+        "published_at": "2024-05-11T10:56:38Z",
+        "channel_title": "Muhammad Sya'bani Falif",
+        "statistics": {
+            "view_count": "6",
+            "like_count": "1",
+            "dislike_count": "0",
+            "comment_count": "0"
+        },
+        "comments": []
+    },
+    {
+        "video_id": "NEvRONsktWk",
+        "title": "Data Security: MySQL Security Practices",
+        "thumbnail": "https://i9.ytimg.com/vi/NEvRONsktWk/sddefault.jpg?sqp=CITA1cAG&rs=AOn4CLBJIAtNR009wqFgAYbSU8ahVyFkKw",
+        "description": "Welcome to our channel! In this tutorial, we'll cover MySQL security practices that are essential for protecting your data. Data security is a critical aspect of database management, and we'll guide you through the steps you can take to improve your MySQL security level.\n\n\ud83e\uddd1 Author:\nMuhammad Sya'bani Falif - 1305213048 - DS4501 (To fulfill the course of Data Security)\n\n\ud83d\udea8 Why MySQL Security is Important:\nData is a valuable asset, and keeping MySQL secure is crucial to protecting sensitive information from cyber threats. In this tutorial, we will help you understand ways to improve your MySQL security, reducing the risk of potential security vulnerabilities.\n\nTimecodes\n00:00 - Introduction\n00:35 - Changing the Default Port\n01:28 - Deleting and Disabling the mysql_history file\n02:33 - Creating Accounts and Privileges\n08:07 - Lock Accounts on Suspicious Activity\n09:35 - Using Authentication Plugins\n11:10 - Check and Remove Privileges of Each Account\n15:25 - Create a Role",
+        "published_at": "2023-11-24T13:01:49Z",
+        "channel_title": "Muhammad Sya'bani Falif",
+        "statistics": {
+            "view_count": "83",
+            "like_count": "2",
+            "dislike_count": "0",
+            "comment_count": "0"
+        },
+        "comments": []
+    },
+    {
+        "video_id": "zgUgCDFpX54",
+        "title": "Hadoop Tutorial: Single Node and Multi-Node Cluster Installation on Ubuntu",
+        "thumbnail": "https://i9.ytimg.com/vi/zgUgCDFpX54/sddefault.jpg?sqp=CITA1cAG&rs=AOn4CLC6QxaOKGe464mkk5ULX53brnfhGg",
+        "description": "\ud83d\udc64Author:\nMuhammad Sya'bani Falif - 1305213048 - DS4501 (To fulfill the course of Big Data Infrastructure and Technology)\n\nHadoop is an open-source software solution that enables efficient processing and storage of large-scale data.\n\n\ud83d\ude80 What You Will Learn:\n\n- Hadoop Single Node and Multi Node Cluster installation on Ubuntu.\n- Configuring Hadoop Single Node and Multi-Node Cluster.\n- Practical steps from start to finish.\n\n\ud83d\udccc Sumber Daya Tambahan:\n1. https://medium.com/@jootorres_11979/how-to-set-up-a-hadoop-3-2-1-multi-node-cluster-on-ubuntu-18-04-2-nodes-567ca44a3b12\n\nTimecodes\n0:00 - Single Node\n9:21 - Multi Node",
+        "published_at": "2023-11-23T12:32:01Z",
+        "channel_title": "Muhammad Sya'bani Falif",
+        "statistics": {
+            "view_count": "39",
+            "like_count": "1",
+            "dislike_count": "0",
+            "comment_count": "0"
+        },
+        "comments": []
+    },
+    {
+        "video_id": "iiZExeXcf8k",
+        "title": "EPCS (External Personal Computer Specification) #SimulasiDigital #SMKN1Cibinong",
+        "thumbnail": "https://i9.ytimg.com/vi/iiZExeXcf8k/sddefault.jpg?sqp=CITA1cAG&rs=AOn4CLBEnowhgHLzW991rZRVQB0kE2xX0w",
+        "description": "Muhammad Sya'bani Falif\nX RPL 1\nSMKN 1 Cibinong\nVisualisasi Konsep Simulasi Digital SMKN 1 Cibinong",
+        "published_at": "2019-05-03T18:48:17Z",
+        "channel_title": "Muhammad Sya'bani Falif",
+        "statistics": {
+            "view_count": "96",
+            "like_count": "9",
+            "dislike_count": "0",
+            "comment_count": "0"
+        },
+        "comments": []
+    }
+]
