@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from api import youtube_metadata, auth, youtube_autocomment
-from core.config import verify_token
+from core.deps import verify_token
 
 app = FastAPI(
     title="YouTube Metadata API",
