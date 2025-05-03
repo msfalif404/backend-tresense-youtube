@@ -1,5 +1,6 @@
 fastapi
 requests
+uvicorn
 pydantic
 python-dotenv
 pandas
