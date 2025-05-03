@@ -174,9 +174,6 @@ async def push_autocomment(
 
     comment = response.data
 
-    if comment["status"] != "Approved":
-        raise HTTPException(status_code=400, detail="Komentar belum disetujui.")
-
     if not comment["suggested_reply"]:
         raise HTTPException(status_code=400, detail="Suggested reply kosong.")
 
